@@ -12,3 +12,8 @@ docker run rajnisays
 ### For custom message
 
 docker run rajnisays "Baasha, Manick Baasha"
+
+
+## Image generation
+
+Generated the ascii image using "https://www.asciiart.eu/image-to-ascii"
