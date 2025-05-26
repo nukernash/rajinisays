@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master  # Or any branch you prefer
-      - build-pipeline
 
 jobs:
   build-and-push:
